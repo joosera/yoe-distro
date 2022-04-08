@@ -68,13 +68,13 @@
 	branch = master
 [submodule "sources/meta-arm"]
 	path = sources/meta-arm
-	url = git://github.com/yoedistro/meta-arm
+	url = https://github.com/yoedistro/meta-arm
 	branch = dunfell
 [submodule "sources/meta-elm-binary"]
 	path = sources/meta-elm-binary
-	url = git://github.com/yoedistro/meta-elm-binary
+	url = https://github.com/yoedistro/meta-elm-binary
 	branch = master
 [submodule "sources/meta-rockchip"]
 	path = sources/meta-rockchip
-	url = git://git.yoctoproject.org/meta-rockchip
+	url = https://git.yoctoproject.org/meta-rockchip
 	branch = dunfell
